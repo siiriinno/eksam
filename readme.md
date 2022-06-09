@@ -16,26 +16,17 @@ TLÜ Haapsalu Kolledži veebiprogrammeerimse eksami raames loodud Wordpressi tee
 
 ### Seadistamine
 
-1. Klooni repo wordpressi teemade kausta wp-content/themes/
+1. Kloonin repo wordpressi teemade kausta wp-content/themes/
    ```sh
-   git clone https://github.com/siiriinno/WP
+   git clone https://github.com/siiriinno/eksam
    ```
-2. Wordpressis vali uueks teemaks Joogastuudio
-3. Lisa postitused. Lisa postitiustele pealkiri, sisu ja pildid.
-4. Postitustel luba lisaväljad. Lisa lisaväljad 'aeg' ja 'koht' ning nendeele vastav väärtus.
-   Lisaväljade lisamine - ülevalt paremas nurgas on 3 täppi, valida link Preferences, Panels, Additional, lülitada sisse Custom Fields.
-5. Lisa menüü Appearance, Menus alt. Heaaderi menüüsse lisamiseks kasuta menüü lisamisel Links Menu Menu settingutes.
-
-
-<p align="right">(<a href="#top">tagasi üles</a>)</p>
-
-
+2. Wordpressis vali uueks teemaks Eksam
+3. Lisa postitused. Lisa postitiustele töötaja nimi, meiliaadress sisu ja pilt.
 
 <!-- CONTACT -->
 ## Kontakt
 
 Siiri Inno - [siirii@tlu.ee](siirii@tlu.ee)
 
-Project Link: [https://github.com/siiriinno/eksam](https://github.com/siiriinno/WP)
+Project Link: [https://github.com/siiriinno/eksam](https://github.com/siiriinno/eksam)
 
-<p align="right">(<a href="#top">tagasi üles</a>)</p>
